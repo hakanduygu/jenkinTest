@@ -44,7 +44,7 @@ pipeline {
 
       }
       steps {
-        bat 'mvn -DskipTests clean'
+        bat 'mvn'
       }
     }
 
