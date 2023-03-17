@@ -36,29 +36,5 @@ pipeline {
       }
     }
 
-    stage('Clean') {
-      agent {
-        node {
-          label 'windows'
-        }
-
-      }
-      steps {
-        bat 'mvn'
-      }
-    }
-
-    stage('Compile') {
-      agent {
-        node {
-          label 'windows'
-        }
-
-      }
-      steps {
-        bat 'Mvn -DskipTests compile'
-      }
-    }
-
   }
 }
