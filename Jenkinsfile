@@ -1,10 +1,5 @@
 pipeline {
-  agent {
-    node {
-      label 'iQuality'
-    }
-
-  }
+  agent any
   stages {
     stage('Control POM') {
       parallel {
