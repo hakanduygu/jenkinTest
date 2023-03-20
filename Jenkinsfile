@@ -6,21 +6,9 @@ pipeline {
 
   }
   stages {
-    stage('error') {
-      parallel {
-        stage('gggg') {
-          steps {
-            fileExists 'pom.xml'
-          }
-        }
-
-        stage('qweqwe') {
-          steps {
-            bat(script: 'git --version', label: 'iQuality', returnStatus: true, encoding: '.', returnStdout: true)
-            bat(script: 'java --version', label: 'iQuality', returnStatus: true, returnStdout: true, encoding: '.')
-          }
-        }
-
+    stage('Control POM') {
+      steps {
+        fileExists 'pom.xml'
       }
     }
 
