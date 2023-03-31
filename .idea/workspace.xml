@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc504560-f4b1-4716-b7eb-ce799d6350a3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/session1/TestingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/session1/TestingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +21,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -192,7 +186,7 @@
       <workItem from="1679481469200" duration="22000" />
       <workItem from="1679484504958" duration="84000" />
       <workItem from="1680250947900" duration="1556000" />
-      <workItem from="1680257993518" duration="1147000" />
+      <workItem from="1680257993518" duration="1935000" />
     </task>
     <task id="LOCAL-00001" summary="deneme 1">
       <created>1680251013749</created>
@@ -229,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680258603486</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="deneme 4">
+      <created>1680259163749</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680259163749</updated>
+    </task>
+    <task id="LOCAL-00007" summary="deneme 4">
+      <created>1680259230195</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680259230195</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +248,8 @@
     <MESSAGE value="deneme 1" />
     <MESSAGE value="deneme 2" />
     <MESSAGE value="deneme 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="deneme 3" />
+    <MESSAGE value="deneme 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme 4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
