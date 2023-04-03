@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc504560-f4b1-4716-b7eb-ce799d6350a3" name="Changes" comment="deneme 4">
-      <change beforePath="$PROJECT_DIR$/src/test/java/session1/TestingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/session1/TestingTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="fc504560-f4b1-4716-b7eb-ce799d6350a3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,7 +186,7 @@
       <workItem from="1680250947900" duration="1556000" />
       <workItem from="1680257993518" duration="3728000" />
       <workItem from="1680503837211" duration="1159000" />
-      <workItem from="1680509288410" duration="368000" />
+      <workItem from="1680509288410" duration="1055000" />
     </task>
     <task id="LOCAL-00001" summary="deneme 1">
       <created>1680251013749</created>
@@ -239,7 +237,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680259230195</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="deneme son">
+      <created>1680509692357</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680509692357</updated>
+    </task>
+    <task id="LOCAL-00009" summary="deneme son">
+      <created>1680509718900</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680509718900</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +263,8 @@
     <MESSAGE value="deneme 2" />
     <MESSAGE value="deneme 3" />
     <MESSAGE value="deneme 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="deneme 4" />
+    <MESSAGE value="deneme son" />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme son" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
