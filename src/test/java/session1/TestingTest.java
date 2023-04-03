@@ -28,7 +28,7 @@ public class TestingTest {
 
     @Test
     public void testExample() {
-        driver.get("https://www.twitter.com/");
+        driver.get("https://www.instagram.com/");
         String Et = "Instagram   ";
         String At = "empty";
         System.out.println("Before Assertion ==>" + Et +"  "+ At);
