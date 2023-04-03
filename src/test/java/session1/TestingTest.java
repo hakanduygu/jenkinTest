@@ -36,6 +36,6 @@ public class TestingTest {
 //it will compare actual title and expected title
         Assert.assertEquals(At,Et,"Beklenen site açılmadı!");
 //print out the result
-        System.out.println("After Assertion ==>" + Et +"  "+ At + "\n Title matched ");
+        System.out.println("After Assertion ==>" + Et +"  "+ At + "\n Title matched");
     }
 }
